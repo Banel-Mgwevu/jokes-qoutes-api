@@ -1,8 +1,8 @@
-# Developer Quotes and Jokes API
+# 🤖 Developer Quotes and Jokes API
 
 This API provides a collection of developer quotes and jokes that can be accessed through HTTP requests. It's built using Node.js with Express.
 
-## Usage
+## Usage 🚀
 
 ### Installation
 
